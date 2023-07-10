@@ -1,0 +1,11 @@
+1. Create a local git repository.
+2. Create one file "file.txt" contains pseudo code and create Branch “branch1” in master
+branch.
+3. Commit "file.txt" into Branch “master” add commit message “added in master”.
+4. Commit "file.txt" into Branch “branch1” add commit message “added in branch1”.
+5. From current branch, create Branch “branch2”.
+6. Merge Branch “branch1” into main branch.
+7. Commit “file.txt” into Branch “branch2”add commit message “added in branch2”.
+8. Merge Branch “branch2” into master.
+9. Show the graph of branching on the terminal.
+10. Rename Master branch to Main.
